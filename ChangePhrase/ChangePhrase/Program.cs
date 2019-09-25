@@ -10,7 +10,7 @@ namespace ChangePhrase
     {
         static void Main(string[] args)
         {
-            string phrase = "La vie est belle";
+            string phrase = "La vie est Belle";
             string result = ProcessPhrase(phrase);
             ShowConsole(result);
             Console.ReadKey();
